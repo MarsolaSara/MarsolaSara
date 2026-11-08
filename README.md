@@ -1,7 +1,9 @@
- 
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:123B59,100:0E7490&height=230&section=header&text=Sara%20Marsola&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedora%20Java%20%7C%20Back-end%20%26%20Full%20Stack&descSize=19&descAlignY=60&animation=fadeIn)
+  <img
+    width="100%"
+    alt="Sara Marsola - Desenvolvedora Java"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:123B59,100:0E7490&height=220&section=header&text=Sara%20Marsola&fontSize=50&fontColor=FFFFFF&fontAlignY=40"
+  />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Sara+Marsola!+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+React;Desenvolvendo+solu%C3%A7%C3%B5es+reais;Aprendendo%2C+construindo+e+evoluindo.)](https://github.com/MarsolaSara)
 
@@ -225,15 +227,21 @@ SEGURANÇA
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarsolaSara&show_icons=true&theme=tokyonight&hide_border=true)
+  <img
+    height="170"
+    alt="Estatísticas de Sara Marsola"
+    src="https://github-stats-extended.vercel.app/api?username=MarsolaSara&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsolaSara&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MarsolaSara&theme=tokyonight&hide_border=true)
+  <img
+    height="170"
+    alt="Linguagens mais utilizadas"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarsolaSara&layout=compact&theme=tokyonight&hide_border=true"
+  />
 
 </div>
 
